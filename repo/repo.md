@@ -1,0 +1,3 @@
+# Repository Helpers
+The files here are for you to use in your own repositories for your own games. The [.gitignore](./gitignore) file in this directory is perfect for a top-level gitignore in your Unity project directory. 
+The license-templates directory contains various licenses we recommend; make sure to add your name/organization and the current year in the document when they are needed. After picking one, copy the file into your repository root and rename it to LICENSE (no file extension). 
