@@ -1,0 +1,2 @@
+# Assets
+Here is a home for assets that you might want to share with the club. These can be ones you've created or ones that you think are especially cool. We appreciate any and all productive additions, please do take care to only add the one's you're proud of though. If there is a duplicate/very similar asset already in the repository, please consult the contributer that added that asset.

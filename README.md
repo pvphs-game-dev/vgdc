@@ -6,6 +6,9 @@ Welcome to the official mono repository for the Video Game Development Club!
 # Getting Started
 Although our club embraces any and all ways to create a video game, we will focus primarily on the Unity game engine. 
 Below are some of our recommendations for free asset creation. 
+## Game Engine
+* Our club will be specializing in Unity. 
+	* [Download](https://unity3d.com/get-unity/download)
 ## Scripting
 * For scripting with C# and Unity, we strongly recommend Microsoft Visual Studio. 
 	* [Download](https://visualstudio.microsoft.com/downloads/)
@@ -15,6 +18,7 @@ Below are some of our recommendations for free asset creation.
 ## 2D Assets
 * Adobe Photoshop is a great piece of software for 2D art creation. It is not free, but it is the single most pirated piece of software on the internet (we do not condone piracy).
 	* [Download](https://www.adobe.com/products/photoshop/free-trial-download.html)
+	* [Pirate Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * Krita is a fan favorite for 2D drawing and asset creation, and it's free!
 	* [Download](https://krita.org/en/download/krita-desktop/)
 * Aseprite is a personal favorite for making pixel art assets. You can buy it, but it is open-source which means it's free if you're willing to compile it from its source code (YouTube is your friend for this process).
